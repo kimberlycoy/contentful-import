@@ -1,5 +1,6 @@
 {
   "name": "contentful-import",
+  "version": "arg?",
   "description": "this tool allows you to import JSON dump exported by contentful-export",
   "bin": "bin/contentful-import",
   "main": "index.js",
